@@ -17,6 +17,7 @@ body{
     font-family: 'Open Sans', sans-serif ;
 }
 
+
 /* utils */
 .container{
     width: 90%;
@@ -43,6 +44,51 @@ nav{
     
 
 }
+
+/* font awesome styling */
+
+.font {
+display: flex;
+flex-direction: row;
+font-size: 20px;
+padding: 10px;
+text-decoration: none;
+text-align: right;
+border-radius: 50px;
+margin:0px 0px 13px 87%
+} 
+
+    
+
+.fa-facebook{
+    margin-right: 1%;
+    color: white;
+    padding: 5px;
+    border-radius: 100px;
+    border: 1px solid white;
+}
+
+.fa-square-twitter{
+    margin-right: 1%;
+    color: white;
+    padding: 5px;
+    border-radius: 100px;
+    border: 1px solid white;
+    
+}
+.fa-instagram{
+    color: white;
+    padding: 5px;
+    border-radius: 100px;
+    border: 1px solid white;
+
+}
+
+.footer{
+    text-align: right;
+    text
+}
+
 header img{
     max-width: 100%;
 
@@ -130,5 +176,7 @@ header img{
         /* text-align: center; */
         
     }
+    
+    
 }
 
